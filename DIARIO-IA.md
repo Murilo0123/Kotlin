@@ -4,7 +4,7 @@
 **Turma:** CC43A  
 **Data:** 13/08/2026
 
-## Houve utilização de um agente LLM?
+## Houve utilização de um agente de IA?
 
 **R:** Não usei.
 
