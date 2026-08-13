@@ -3,7 +3,7 @@ fun matricular(nome: String, curso: String = "ADS", periodo: Int = 1) {
 }
 
 fun main(){
-    matricular("Pedro")
-    matricular("Pedro", periodo = 2)
-    matricular(periodo = 4, nome = "Pedro", curso = "Gastronomia")
+    matricular("Pedro") //Pedro — ADS — 1º período
+    matricular("Pedro", periodo = 2) //Pedro — ADS — 2º período
+    matricular(periodo = 4, nome = "Pedro", curso = "Gastronomia") //Pedro — Gastronomia — 4º período
 }
